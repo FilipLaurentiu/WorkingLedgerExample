@@ -1,0 +1,22 @@
+{
+  "name": "workingledgerexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipLaurentiu/WorkingLedgerExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilipLaurentiu/WorkingLedgerExample/issues"
+  },
+  "homepage": "https://github.com/FilipLaurentiu/WorkingLedgerExample#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.1.1"
+  }
+}
